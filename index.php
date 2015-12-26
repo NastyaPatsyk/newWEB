@@ -4,12 +4,14 @@
 		<title>CinemaArt</title> 
 		<meta charset="UTF-8">
 		<link rel="stylesheet" type="text/css" href="main.css"/>
-		<link rel="stylesheet" type="text/css" href="snow.css"/>
-		<link rel="stylesheet" type="text/css" href="headertitle.css"/>
-		<link rel="stylesheet" type="text/css" href="index_films.css"/>
+
 		<link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
 		<link href="http://daneden.github.io/animate.css/animate.min.css" rel='stylesheet' type='text/css'>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!-- for new movies -->
+			<link rel="stylesheet" type="text/css" href="snow.css"/>
+		<link rel="stylesheet" type="text/css" href="headertitle.css"/>
+		<link rel="stylesheet" type="text/css" href="index_films.css"/>
+	
 	</head>
 	<body>
 
