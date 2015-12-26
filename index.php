@@ -50,11 +50,11 @@
 	<nav id="mainmenu">	
 	<hr style="margin-left:-20px">
 		<div class="MainText"><a href="index.php" class="href">ГЛАВНАЯ</a></div>
-		<div class="MainText"><a href="news.php" title="SEO KEYWORDS" class="href">НОВОСТИ</a> </div>
-		<div class="MainText"><a href="afisha.php" title="SEO KEYWORDS" class="href">АФИША</a>  </div>
-		<div class="MainText"><a href="history.php" title="SEO KEYWORDS" class="href">ИСТОРИЯ</a> </div> 
-		<div class="MainText"><a href="interesting_facts.php" title="SEO KEYWORDS" class="href">ИНТЕРЕСНЫЕ ФАКТЫ</a> </div> 
-		<div class="MainText"><a href="return_address.php" class="href">ОБРАТНАЯ СВЯЗЬ</a></div>					
+		<div class="MainText"><a href="news.php" title="Новини" class="href">НОВОСТИ</a> </div>
+		<div class="MainText"><a href="afisha.php" title="афіша" class="href">АФИША</a>  </div>
+		<div class="MainText"><a href="history.php" title="історія" class="href">ИСТОРИЯ</a> </div> 
+		<div class="MainText"><a href="interesting_facts.php" title="цікаві факти" class="href">ИНТЕРЕСНЫЕ ФАКТЫ</a> </div> 
+		<div class="MainText"><a href="return_address.php" class="контаккти">ОБРАТНАЯ СВЯЗЬ</a></div>					
 	</nav>
 	</br></br></br><hr>
 
