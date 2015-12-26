@@ -188,12 +188,12 @@ jQuery(function() {
 </script>
 
 			
+	
+
+</article>
 	<footer id="footer" class="footerStyle" style="float:left; bottom:0;">
 			<div style="padding:30px"><img src="img/videokamera-42.png" align="middle" width="40px" height="40px"/>Cinema Art Platform. © cinema-art.ua. For people with an art in a blood.
 			<iframe src="logo.svg"  name="myframe"  width="250"  height="100"  frameborder="0" align="right" style="margin-top:-30px; margin-right: 505px"></iframe></div> 
 		</footer>	
-
-</article>
-	
 	</body>
 </HTML> 
